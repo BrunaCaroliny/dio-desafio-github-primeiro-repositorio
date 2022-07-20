@@ -1,2 +1,23 @@
 Link para download do Git:https://git-scm.com/download/win
+
 O Git Bash é um terminal entendido para otimizar o uso do Git.
+
+'''
+git add .
+'''
+é o comando para adicionar ao repositório.
+
+'''
+git status
+'''
+é o comando para ver o status.
+
+'''
+git commit -m "texto-informativo-sobre-a-atualização"
+'''
+é o comando que mostra as mudanças do projeto.
+
+'''
+git push origin main
+'''
+é o comando que empurra, digamos assim, a atualização do projeto.
