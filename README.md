@@ -7,3 +7,5 @@ Com base nos conhecimentos adquiridos até o momento, não tenho tanto a apresen
 
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+## Bootcamp Santander Code Girls :heartpulse:
